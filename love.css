@@ -1,5 +1,6 @@
 .nav-link {
 	font-weight: bold;
+
 }
 .navbar-nav {
 	text-align: right;
@@ -10,18 +11,20 @@ a.navbar-brand {
     margin-left: 500px;
 }
 .img1 {
-	height:550px;
-	width: 500px;
+	height:700px;
+	width:1050px;
 	padding:25px;
-	margin-left:50px;
+	margin: auto;
+	
 }
 .img2 {
 	height: 250px;
 	width: 200px;
 	margin-left: 15px;
 }
+
 .h6 {
-	padding: 5px;
+	padding: 15px;
 }
 .h4 {
 	margin-left: 65px;
@@ -43,9 +46,6 @@ a.navbar-brand {
 	margin-left: 15px;
 }
 
-.hr {
-	height: 55px;
-}
 
 .img6 {
 	width: 250px;
@@ -59,19 +59,23 @@ a.navbar-brand {
 
 .card {
 	margin-bottom: 50px;
+	height:213px;
+	width:600px;
+	margin-left:;
 }
 
 div.esquerda {
-	margin-left: 500px;
-	margin-right: 200px;
+	margin-left: 450px;
+	margin-right: 100px;
+	float: left;
 }
 
 div.direita {
 	margin-right: 200px;
-
 }  
 
-.card {
-	width: 700px;
-	height: 250px;
+.welove {
+	height:150px;
+	width: 200px;
+
 }
