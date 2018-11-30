@@ -1,9 +1,10 @@
-.nav-link {
+a.nav-link {
 	font-weight: bold;
 
 }
 .navbar-nav {
 	text-align: right;
+	margin-left:90px;
 
 }
 
@@ -12,7 +13,7 @@ a.navbar-brand {
 }
 .img1 {
 	height:700px;
-	width:1050px;
+	width:1045px;
 	padding:25px;
 	margin: auto;
 	
@@ -91,4 +92,12 @@ img.bla { margin-left:100px;}
 
 img.bla2 {
 	margin-right: 100px;
+}
+
+img.imga {
+	margin-left: 15px;
+	margin-right:15px;
+	width: 250px;
+	height: 210px;
+	padding: 15px;
 }
